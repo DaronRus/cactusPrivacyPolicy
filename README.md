@@ -62,5 +62,3 @@
 **<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Связаться с нами</font></font>**
 
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Если у вас есть какие-либо вопросы или предложения относительно [моей/нашей] Политики конфиденциальности, не стесняйтесь обращаться к [мне/нам] по адресу cactusgamescompany@gmail.com.</font></font>
-
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Эта страница политики конфиденциальности была создана на</font></font> [<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">сайте Privacypolicytemplate.net</font></font>](https://privacypolicytemplate.net) <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">и изменена/создана</font></font> [<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">генератором политики конфиденциальности приложений.</font></font>](https://app-privacy-policy-generator.nisrulz.com/)
